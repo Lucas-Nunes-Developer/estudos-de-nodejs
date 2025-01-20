@@ -9,7 +9,7 @@ const PORT = 3000;
 
 // Rota básica
 app.get('/', (req, res) => {
-  res.send('Servidor Express rodando com sucesso!');
+  res.send('Servidor Express rodando com sucesso!!');
 });
 
 // Iniciando o servidor
